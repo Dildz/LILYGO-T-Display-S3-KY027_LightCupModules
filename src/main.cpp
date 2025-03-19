@@ -20,8 +20,9 @@
 *  - Module B D0    -> GPIO18 (input)
 *  - Module B LED   -> GPIO44 (output)
 *
-* KY-028 Specifications:
-*  - Operating Voltage: 3.3V to 5.5V
+* KY-027 Specifications:
+*  - Protocol: Digital
+*  - Operating Voltage: 3.3V to 5V
 **********************************************************************************************************/
 
 /*************************************************************
